@@ -1,0 +1,210 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Project Title",
+    "section": "",
+    "text": "Your report goes here.\n\nCode# a test code chunk",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Report</span>"
+    ]
+  },
+  {
+    "objectID": "eda/eda-member1.html",
+    "href": "eda/eda-member1.html",
+    "title": "Member 1 First Name & Last Name Initial",
+    "section": "",
+    "text": "Your exploratory data analysis of the team datasets go here.",
+    "crumbs": [
+      "EDA",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Member 1 First Name & Last Name Initial</span>"
+    ]
+  },
+  {
+    "objectID": "eda/eda-member2.html",
+    "href": "eda/eda-member2.html",
+    "title": "Member 2 First Name & Last Name Initial",
+    "section": "",
+    "text": "Your exploratory data analysis of the team datasets go here.",
+    "crumbs": [
+      "EDA",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Member 2 First Name & Last Name Initial</span>"
+    ]
+  },
+  {
+    "objectID": "eda/eda-member3.html",
+    "href": "eda/eda-member3.html",
+    "title": "Member 3 First Name & Last Name Initial",
+    "section": "",
+    "text": "Your exploratory data analysis of the team datasets go here.",
+    "crumbs": [
+      "EDA",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Member 3 First Name & Last Name Initial</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html",
+    "href": "appx/proposal.html",
+    "title": "Appendix A — Rent & Roster: Mapping Student Housing Affordability Across the U.S.",
+    "section": "",
+    "text": "A.1 Team Members",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Rent & Roster: Mapping Student Housing Affordability Across the U.S.</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#team-members",
+    "href": "appx/proposal.html#team-members",
+    "title": "Appendix A — Rent & Roster: Mapping Student Housing Affordability Across the U.S.",
+    "section": "",
+    "text": "Elma – Project Coordinator & Data Curator\nJack – Technical Lead & Code Developer\n\nThusa – Research Analyst & Documentation Lead",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Rent & Roster: Mapping Student Housing Affordability Across the U.S.</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#short-project-description",
+    "href": "appx/proposal.html#short-project-description",
+    "title": "Appendix A — Rent & Roster: Mapping Student Housing Affordability Across the U.S.",
+    "section": "A.2 Short Project Description",
+    "text": "A.2 Short Project Description\nThis project investigates the feasibility of rental housing for college-age students (18-24 years) across U.S. states by analyzing the relationship between median rental prices and median incomes by age group. Using Zillow rental data and U.S. Census historical income tables, we will create interactive visualizations and rankings to identify which states offer the most affordable housing options for students and how housing cost burden varies by age.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Rent & Roster: Mapping Student Housing Affordability Across the U.S.</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#research-questions",
+    "href": "appx/proposal.html#research-questions",
+    "title": "Appendix A — Rent & Roster: Mapping Student Housing Affordability Across the U.S.",
+    "section": "A.3 Research Questions",
+    "text": "A.3 Research Questions\n\nWhich U.S. states are most and least affordable for college-age renters (18-24), and how does this compare to older age groups?\nWhat is the rent-to-income burden ratio for 18-24 year-olds by state, and how many states fall into “affordable” (&lt;30%), “burdened” (30-50%), or “severely burdened” (&gt;50%) categories?\nHow has the affordability gap between younger renters (18-24) and established adults (35-44) changed over recent years, and which states show the most significant generational disparities in housing costs?",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Rent & Roster: Mapping Student Housing Affordability Across the U.S.</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#reasons-and-inspirations-behind-choosing-the-topic",
+    "href": "appx/proposal.html#reasons-and-inspirations-behind-choosing-the-topic",
+    "title": "Appendix A — Rent & Roster: Mapping Student Housing Affordability Across the U.S.",
+    "section": "A.4 Reasons and Inspirations Behind Choosing the Topic",
+    "text": "A.4 Reasons and Inspirations Behind Choosing the Topic\n\nPersonal relevance: All team members are currently students navigating housing affordability challenges\nPolicy importance: Student housing insecurity is a growing national issue affecting academic success and mental health\nData availability: Reliable, publicly available datasets (Zillow, Census) allow for reproducible, data-driven analysis\nVisual impact: State-level comparisons create compelling maps and rankings that communicate findings effectively\nActionable insights: Results can inform prospective students, policymakers, and university administrators about regional affordability trends",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Rent & Roster: Mapping Student Housing Affordability Across the U.S.</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#potential-data-set",
+    "href": "appx/proposal.html#potential-data-set",
+    "title": "Appendix A — Rent & Roster: Mapping Student Housing Affordability Across the U.S.",
+    "section": "A.5 Potential Data Set",
+    "text": "A.5 Potential Data Set\n\n\n\n\n\n\n\n\n\n\nSource\nData Type\nTime Period\nGeographic Level\nKey Variables\n\n\n\n\nZillow Research Data\nRental price indices\n2015–present (monthly)\nState, Metro, County, ZIP\nZillow Observed Rent Index (ZORI), median rent\n\n\nU.S. Census Bureau Historical Income Tables\nIncome by demographic characteristics\nAnnual (2000–2023)\nNational, State\nMedian income by age group (18-24, 25-34, 35-44, etc.)\n\n\n\nData Integration: We will merge Zillow state-level median rent data with Census state-level median income data by age group to calculate rent-to-income ratios and affordability categories.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Rent & Roster: Mapping Student Housing Affordability Across the U.S.</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#communication-plan",
+    "href": "appx/proposal.html#communication-plan",
+    "title": "Appendix A — Rent & Roster: Mapping Student Housing Affordability Across the U.S.",
+    "section": "A.6 Communication Plan",
+    "text": "A.6 Communication Plan\n\n\n\n\n\n\n\nElement\nDetails\n\n\n\n\nPrimary Channel\nGoogle Chat/WhatsApp Chat (dedicated #student-housing-proj channel)\n\n\nSecondary Channel\nEmail for formal communications with instructor/preceptors\n\n\nResponse Time\n24 hours during weekdays (Monday–Friday); 48 hours on weekends\n\n\nWeekly Meeting\nWednesdays, 7:00–8:00 PM (hybrid: in-person library or Zoom)\n\n\nCode Collaboration\nGitHub repository with shared access; GitHub Issues for task tracking\n\n\nDocument Sharing\nGoogle Drive folder for drafts, meeting notes, and reference materials",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Rent & Roster: Mapping Student Housing Affordability Across the U.S.</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#roles",
+    "href": "appx/proposal.html#roles",
+    "title": "Appendix A — Rent & Roster: Mapping Student Housing Affordability Across the U.S.",
+    "section": "A.7 Roles",
+    "text": "A.7 Roles\nWhile all team members are expected to contribute to the project, having leads helps with accountability.\n\n\n\n\n\n\n\n\nRole\nTeam Member\nResponsibilities\n\n\n\n\nPoint of Contact\nElma\nPrimary liaison with instructor/preceptors; schedules meetings; ensures deliverables are submitted on time; communicates team needs or issues\n\n\nTechnical Lead\nJack\nOversees all code development; ensures code functionality; leads data cleaning, merging, and visualization creation; maintains website/Quarto project\n\n\nResearch and Writing Lead\nThusa\nLeads literature review and background research; drafts written content for website; ensures clear communication of findings; edits final documentation and presentation materials",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Rent & Roster: Mapping Student Housing Affordability Across the U.S.</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#conflict-resolution",
+    "href": "appx/proposal.html#conflict-resolution",
+    "title": "Appendix A — Rent & Roster: Mapping Student Housing Affordability Across the U.S.",
+    "section": "A.8 Conflict Resolution",
+    "text": "A.8 Conflict Resolution\n\nMissed Deadline\n\nTeam member notifies Chat ASAP with reason and new estimated completion time\nIf delay affects downstream tasks, team redistributes work during next meeting\nIf pattern emerges (2+ missed deadlines), Elma schedules 1-on-1 to discuss support needs\nPersistent issues escalated to instructor with team documentation\n\n\n\n50/50 Split Decision\nElma has lead authority to initiate conflict resolution to ensure team progress 1. Each side presents argument with supporting evidence 2. Silent voting in Chat (majority wins) 3. If still deadlocked, consult instructor/preceptor for guidance 4. Document decision rationale in meeting notes\n\n\nCode Disagreements\nJack (Technical Lead) has lead authority on implementation; Thusa and Elma can request documented explanation\n\n\nWriting/Content Disagreements\nThusa (Writing Lead) has lead authority on narrative; technical accuracy verified by Jack and Elma",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Rent & Roster: Mapping Student Housing Affordability Across the U.S.</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#rough-implementation-plan",
+    "href": "appx/proposal.html#rough-implementation-plan",
+    "title": "Appendix A — Rent & Roster: Mapping Student Housing Affordability Across the U.S.",
+    "section": "A.9 Rough Implementation Plan",
+    "text": "A.9 Rough Implementation Plan\nAll tasks below will be created as GitHub Issues in the project repository with labels, assignees, milestones, and due dates.\n\nPhase 1: Setup and Data Collection\n\n\n\n\n\n\n\n\n\nTask\nDue Date\nLead\nDeliverable\n\n\n\n\nCreate GitHub repository and set up project structure\nWeek 1 (Apr 1)\nThusa\nFunctional repo with README, .gitignore, folders\n\n\nDownload and clean Zillow rental data\nWeek 1 (Apr 3)\nElma\nCleaned CSV with state-level rent data\n\n\nDownload and clean Census income-by-age data\nWeek 1 (Apr 5)\nJack\nCleaned CSV with state income by age group\n\n\n\n\n\nPhase 2: Data Integration and Analysis\n\n\n\n\n\n\n\n\n\nTask\nDue Date\nLead\nDeliverable\n\n\n\n\nMerge datasets and calculate rent-to-income ratios\nWeek 2 (Apr 8)\nJack\nMerged dataset with burden calculations\n\n\nCreate state affordability rankings and categories\nWeek 2 (Apr 10)\nElma\nRanked list with affordability labels\n\n\nGenerate summary statistics and initial visualizations\nWeek 2 (Apr 12)\nThusa\nSummary tables + draft charts\n\n\n\n\n\nPhase 3: Visualization and Website\n\n\n\n\n\n\n\n\n\nTask\nDue Date\nLead\nDeliverable\n\n\n\n\nBuild interactive U.S. map (choropleth)\nWeek 3 (Apr 15)\nElma\nFunctional map showing burden by state\n\n\nCreate age comparison visualizations (bar charts, scatter plots)\nWeek 3 (Apr 17)\nAll\nMultiple visualization types\n\n\nDraft website content and narrative\nWeek 3 (Apr 19)\nThusa\nWritten content for all pages\n\n\nAssemble Quarto website with all components\nWeek 4 (Apr 22)\nJack\nLive website with all sections\n\n\n\n\n\nPhase 4: Refinement and Documentation\n\n\n\n\n\n\n\n\n\nTask\nDue Date\nLead\nDeliverable\n\n\n\n\nCode review and style compliance check\nWeek 4 (Apr 24)\nJack\nAll code meets style guide\n\n\nWrite data methodology and limitations sections\nWeek 4 (Apr 26)\nThusa\nComplete documentation\n\n\nPeer review and feedback incorporation\nWeek 5 (Apr 29)\nAll\nRevised website and analysis\n\n\nFinal presentation prep and rehearsal\nWeek 5 (May 1)\nElma\nPresentation slides and talking points\n\n\n\n\n\nFinal Deliverables\n\n\n\n\n\n\n\n\n\nTask\nDue Date\nLead\nDeliverable\n\n\n\n\nSubmit final website URL\nMay 5\nElma\nLive, complete website\n\n\nSubmit final presentation\nMay 5\nThusa\nRecorded/ready presentation\n\n\nComplete team evaluation forms\nMay 7\nAll\nIndividual evaluations submitted",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Rent & Roster: Mapping Student Housing Affordability Across the U.S.</span>"
+    ]
+  },
+  {
+    "objectID": "appx/proposal.html#references",
+    "href": "appx/proposal.html#references",
+    "title": "Appendix A — Rent & Roster: Mapping Student Housing Affordability Across the U.S.",
+    "section": "A.10 References",
+    "text": "A.10 References\n\nZillow Research Data. https://www.zillow.com/research/data/\nU.S. Census Bureau Historical Income Tables. https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Rent & Roster: Mapping Student Housing Affordability Across the U.S.</span>"
+    ]
+  },
+  {
+    "objectID": "appx/case-study.html",
+    "href": "appx/case-study.html",
+    "title": "Appendix B — Case Study",
+    "section": "",
+    "text": "Your case study go here.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Case Study</span>"
+    ]
+  },
+  {
+    "objectID": "wa/wa-member1.html",
+    "href": "wa/wa-member1.html",
+    "title": "Appendix C — Member 1 First Name & Last Name Initial",
+    "section": "",
+    "text": "Work area to try code",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>Member 1 First Name & Last Name Initial</span>"
+    ]
+  },
+  {
+    "objectID": "wa/wa-member2.html",
+    "href": "wa/wa-member2.html",
+    "title": "Appendix D — Member 2 First Name & Last Name Initial",
+    "section": "",
+    "text": "Work area to try code",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Member 2 First Name & Last Name Initial</span>"
+    ]
+  },
+  {
+    "objectID": "wa/wa-member3.html",
+    "href": "wa/wa-member3.html",
+    "title": "Appendix E — Member 3 First Name & Last Name Initial",
+    "section": "",
+    "text": "Work area to try code",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>Member 3 First Name & Last Name Initial</span>"
+    ]
+  }
+]
