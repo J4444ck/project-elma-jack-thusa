@@ -3,3 +3,9 @@ title: "Case Study"
 ---
 
 Your case study go here.
+
+--Jack:
+The FiveThirtyEight article Uber Is Taking Millions Of Manhattan Rides Away From Taxis begins with a clear real-world policy debate—whether Uber is worsening congestion in New York City—which serves as a strong hook. It quickly presents its main conclusion upfront: Uber is not significantly increasing total rides in Manhattan but is instead replacing traditional taxi trips (FiveThirtyEight). After establishing this thesis, the article builds credibility by explaining its data sources and methodology, then provides high-level context with aggregate ride numbers before narrowing the focus to spatial patterns across neighborhoods.
+
+From there, the story unfolds through layered analysis: maps and zone-level comparisons show that Uber gains closely mirror taxi losses in Manhattan, reinforcing the substitution argument across multiple areas rather than isolated cases (FiveThirtyEight). The article then introduces nuance by highlighting exceptions and offering behavioral explanations for rider preferences, before acknowledging limitations in the data to avoid overclaiming. It concludes by zooming out to broader trends in market share and geography, ultimately returning to the initial question with a refined answer: Uber and taxis coexist in some areas, but in Manhattan’s core, Uber is steadily displacing taxis (FiveThirtyEight).
+(https://fivethirtyeight.com/features/uber-is-taking-millions-of-manhattan-rides-away-from-taxis/)
